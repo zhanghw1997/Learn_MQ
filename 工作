@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T09:06:46.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.6.6" etag="iF4DLR7Lsc6CXsZ0i9bO" type="github"><diagram id="gDB5LkOD8Y76tDyFPb-B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-07T11:02:16.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="I3cJZp6OE-fOwbR7myJU" version="13.6.6" type="github">
+  <diagram id="gDB5LkOD8Y76tDyFPb-B" name="Page-1">
+    <mxGraphModel dx="1188" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-NBodogQZXYOVLrYI5nD-1" value="游戏开始&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-style: italic ; background-color: rgb(43 , 43 , 43) ; font-family: &amp;#34;monaco&amp;#34; ; font-size: 13.5pt&quot;&gt;GAME_START&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NBodogQZXYOVLrYI5nD-3" value="房间协议" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-NBodogQZXYOVLrYI5nD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NBodogQZXYOVLrYI5nD-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NBodogQZXYOVLrYI5nD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="380" width="680" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-NBodogQZXYOVLrYI5nD-7" value="画猜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NBodogQZXYOVLrYI5nD-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="-NBodogQZXYOVLrYI5nD-3" target="-NBodogQZXYOVLrYI5nD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="160" as="sourcePoint" />
+            <mxPoint x="365" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
